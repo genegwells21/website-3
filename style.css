@@ -47,6 +47,9 @@ a.btn-first{
     color: #fff;
     box-shadow: 5px 5px 10px #999;
     transition: 0.3s;
-    
+  }
+  .banner-info, .banner-image {
+    margin: 30px 0;
+  }
   
   
